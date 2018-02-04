@@ -5,7 +5,7 @@ int a[10] , temp[50] ;
 int i ;
 
 //for storing the values
-printf(" Enter the numbers:") ;
+printf(" Enter 10 numbers:") ;
  for(i=0 ; i<10 ; i++)
  scanf("%d" , &a[i]) ;
 
