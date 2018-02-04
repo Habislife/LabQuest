@@ -12,7 +12,7 @@ int main()
 	}
 	
 	//for printing reversed series of numbers
-	printf("The reversed series of numbers are: ");
+	printf("The reversed series of numbers are :\n");
 	for(i=9;i>=0;i--)
 	{
 		printf("%d ",a[i]);
